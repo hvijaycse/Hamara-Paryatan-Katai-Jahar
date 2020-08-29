@@ -1,8 +1,7 @@
-# हमारा पर्यटन कतई जहर
-aap camera ki nazar mai hain....
-
+# Third Eye
+A Crowd surveillance tool
 ## About
-* Hamara Paryatan Katai Jahar is a project for developing Indian Tourism sector. We have build a solution to count the number of tourist in a specific part of a tourist place.<br>
+* Thord Eye is a project for developing Indian Tourism sector. We have build a solution to count the number of tourist in a specific part of a tourist place.<br>
 * We are counting people by using our Human Detection System and plotting density graph on the heritage place map, which helps tourist to plan thier trips and helps rescue forces to identify people in case of emergencies.
 
 ## Installation Requirements and Guidelines
